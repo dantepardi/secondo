@@ -1,4 +1,5 @@
 file1 del reposit secondo
-faccio una modifica in una riga gi‡ modificata
+faccio una modifica in una riga gi√† modificata
 faccio altra modifica
 aggiungo una riga dal server
+di nuovo aggiungo una riga
